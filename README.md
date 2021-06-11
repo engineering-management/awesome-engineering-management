@@ -1,7 +1,6 @@
-Awesome Engineering Management [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-===
-
 ![banner](./assets/banner.png)
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 - [Practicing](#practicing)
   - [Models and Methodologies](#models-and-methodologies)
