@@ -333,11 +333,13 @@
 
 ### Diagramming
 
-Draw.io
-Sketch
-https://www.invisionapp.com/
-https://www.figma.com/
-https://zeplin.io/
+- [Draw.io](https://draw.io)
+- [Lucidchart](https://www.lucidchart.com/)
+- [Miro](https://miro.com)
+- [Sketch](https://www.sketch.com/)
+- [Invision](https://www.invisionapp.com/)
+- [Figma](https://www.figma.com/)
+- [Zeplin](https://zeplin.io/)
 
 # Learning
 
