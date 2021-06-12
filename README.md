@@ -35,19 +35,24 @@
   - [Tools](#tools)
     - [Project and task Management](#project-and-task-management)
     - [Boards](#boards)
+    - [Standups](#standups)
     - [Documentation / Knowledge Management](#documentation--knowledge-management)
     - [Communication](#communication)
     - [Email](#email)
+    - [Email Clients](#email-clients)
     - [Diagramming](#diagramming)
     - [Metrics](#metrics)
     - [Calendars](#calendars)
     - [Time Management](#time-management)
     - [Code Hosting](#code-hosting)
     - [Time tracking and contractor management](#time-tracking-and-contractor-management)
+    - [Mentoring](#mentoring)
 - [Learning](#learning)
   - [Books](#books)
   - [Certifications](#certifications)
-  - [Laws to live by](#laws-to-live-by)
+  - [Useful resources](#useful-resources)
+  - [Other Awesome Lists](#other-awesome-lists)
+- [Laws to live by](#laws-to-live-by)
 
 # Practicing
 
@@ -325,6 +330,14 @@
 - [huboard](https://github.com/huboard/huboard): Instant task management for your GitHub repositories
 - [nullboard](https://github.com/apankrat/nullboard): Nullboard is a minimalist kanban board, focused on compactness and readability.
 
+### Standups
+
+- [git-standup](https://github.com/kamranahmedse/git-standup): Recall what you did on the last working day.
+- [standuptimer.app](https://standuptimer.app): Use this free timer for your team standups to keep them on track
+- [scrumbot](https://github.com/redsift/scrumbot): Slack bot for standup meetings
+- [slack-standup-bot](https://github.com/colestrode/slack-standup-bot): Daily, weekly, whenever standup bot for Slack
+- [standup-raven](https://github.com/standup-raven/standup-raven): A Mattermost plugin for communicating daily standups across teams
+
 ### Documentation / Knowledge Management
 
 - [Confluence](https://www.atlassian.com/software/confluence)
@@ -356,6 +369,17 @@
 - [Cockmail](https://cock.li)
 - [mailinabox](https://mailinabox.email)
 - [Gmail](https://mail.google.com)
+
+### Email Clients
+
+- [Nylas](https://github.com/nylas/nylas-mail): An extensible desktop mail app built on the modern web.
+- [Mailspring](https://github.com/Foundry376/Mailspring): A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
+- [Thunderbird](https://www.thunderbird.net/): Make Email Easier.
+- [Shift](https://tryshift.com/): Shift is a desktop app for streamlining all of your email and app accounts.
+- [Rambox](https://github.com/ramboxapp/community-edition): Free and Open Source messaging and emailing app that combines common web applications into one.
+- [K9](https://github.com/k9mail/k-9): K-9 Mail – Open Source Email App for Android
+- [Evolution](https://help.gnome.org/users/evolution/stable/): Evolution is a fully-featured open source groupware application
+- [Microsoft Office Outlook](https://office.microsoft.com/outlook): Outlook is a personal information manager that lets you manage your e-mail, calendar, contacts, and tasks.
 
 ### Diagramming
 
@@ -422,6 +446,21 @@
 - [Kimai2](https://github.com/kevinpapst/kimai2): Kimai v2 is a web-based multiuser time-tracking application
 - [ShareX](https://github.com/ShareX/ShareX): ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key
 
+### Mentoring
+
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2021
+- [awesome-quality-assurance-roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap): The starting point of your career as a Software Quality Assurance Engineer | Quality Automation Engineer
+- [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans): An ultra-simplified explanation to design patterns
+- [ossu/computer-science](https://github.com/ossu/computer-science): Path to a free self-taught education in Computer Science!
+- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood): Falsehoods Programmers Believe in
+- [system_design](https://github.com/shashank88/system_design): Preparation links and resources for system design questions
+- [study-path](https://github.com/joebew42/study-path):  An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
+- [best-practices-checklist](https://github.com/palash25/best-practices-checklist): A list of awesome idiomatic code resources.
+- [pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers): A curated list of topics to start learning software engineering
+- [evergreen-skills-developers](https://github.com/romenrg/evergreen-skills-developers): List of evergreen skills, based on software development best practices & cross-framework principles, that should serve as a fair assessment of skilled software engineers / developers
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses): List of awesome university courses for learning Computer Science!
+- [awesome-testing-courses](https://github.com/upgundecha/awesome-testing-courses): A curated list of awesome online courses and tutorials on software testing, test automation and more.
+
 # Learning
 
 ## Books
@@ -441,4 +480,22 @@
 - [https://www.pmi.org/certifications](https://www.pmi.org/certifications)
 - Others: https://www.cio.com/article/3210765/top-project-management-certifications.html
 
-## [Laws to live by](https://github.com/dwmkerr/hacker-laws)
+## Useful resources
+
+- [Career Ladders](https://career-ladders.dev): Roles and responsibilities of various members of tech.
+- [levels.fyi](http://levels.fyi/): Compensations at various levels
+
+## Other Awesome Lists
+
+- [the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist): Books for people who are or aspire to manage/lead team(s) of software engineers
+- [awesome-cto](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+- [awesome-startup](https://github.com/KrishMunot/awesome-startup): All the required resources to build your own startup
+- [engineering-management](https://github.com/charlax/engineering-management): A collection of inspiring resources related to engineering management and tech leadership
+- [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing): Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+- [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management): How to transition from software development to engineering management
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs): A curated list of engineering blogs
+- [empathy-in-engineering](https://github.com/KimberlyMunoz/empathy-in-engineering): A curated list of resources for building and promoting more compassionate engineering cultures
+- [awesome-project-management](https://github.com/shahedbd/awesome-project-management): Awesome lists about Project Management interesting and useful topics.
+- [engineer-manager](https://github.com/ryanburgess/engineer-manager): A list of engineering manager resource links.
+
+# [Laws to live by](https://github.com/dwmkerr/hacker-laws)
