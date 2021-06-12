@@ -30,13 +30,20 @@
     - [Decision tree](#decision-tree)
     - [Gantt Charts](#gantt-charts)
     - [Cause-effect analysis: Fishbone diagrams](#cause-effect-analysis-fishbone-diagrams)
+    - [SCRUM Poker planning](#scrum-poker-planning)
     - [Other Documents](#other-documents)
   - [Tools](#tools)
     - [Project and task Management](#project-and-task-management)
     - [Boards](#boards)
     - [Documentation / Knowledge Management](#documentation--knowledge-management)
     - [Communication](#communication)
+    - [Email](#email)
     - [Diagramming](#diagramming)
+    - [Metrics](#metrics)
+    - [Calendars](#calendars)
+    - [Time Management](#time-management)
+    - [Code Hosting](#code-hosting)
+    - [Time tracking and contractor management](#time-tracking-and-contractor-management)
 - [Learning](#learning)
   - [Books](#books)
   - [Certifications](#certifications)
@@ -173,6 +180,7 @@
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Performance_indicator)
 - [PMI](https://www.pmi.org/learning/library/project-metrics-key-performance-indicators-2903)
+- [Clickup](https://clickup.com/blog/agile/agile-metrics/)
 
 ### Retrospectives
 
@@ -241,6 +249,15 @@
   - [Miro](https://miro.com/templates/fishbone-diagram/)
   - [Canva](https://www.canva.com/graphs/fishbone-diagrams/)
 
+### SCRUM Poker planning
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
+- Tools
+  - [scrumpoker.online](https://scrumpoker.online/)
+  - [Slack bot](https://github.com/nateyolles/slack-pokerbot)
+  - [Storyplan for slack](https://www.storyplan.io/)
+  - [Android app](https://play.google.com/store/apps/details?id=com.vvkra.planningpoker&hl=en_US&gl=US)
+
 ### Other Documents
 
 - Activity attributes
@@ -294,6 +311,7 @@
 - [Youtrack](https://www.jetbrains.com/youtrack/)
 - [Github](https://github.com)
 - [Gitlab](https://gitlab.com)
+- [Google sheets](https://sheets.new)
 - [Clubhouse](https://clubhouse.io/)
 - [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)
 - [Project Manager](https://www.projectmanager.com/)
@@ -331,6 +349,14 @@
 - [Gitter](https://gitter.im/)
 - [Flock](https://www.flock.com/)
 
+### Email
+
+- [Protonmail](https://protonmail.com)
+- [Tutanota](https://tutanota.com)
+- [Cockmail](https://cock.li)
+- [mailinabox](https://mailinabox.email)
+- [Gmail](https://mail.google.com)
+
 ### Diagramming
 
 - [Draw.io](https://draw.io)
@@ -340,6 +366,61 @@
 - [Invision](https://www.invisionapp.com/)
 - [Figma](https://www.figma.com/)
 - [Zeplin](https://zeplin.io/)
+
+### Metrics
+
+- [jira-agile-metrics](https://github.com/DeloitteDigitalUK/jira-agile-metrics): A tool to extract Agile metrics and charts from JIRA projects and Trello Boards
+- [agile-metrics-tools](https://github.com/patitalabs/agile-metrics-tools): Agile metrics tools allows you to track metrics from different sources
+- [agile-metrics](https://github.com/DaGrisa/agile-metrics): collecting agile metrics from jira, bitbucket, sonarqube and send them to elastic stack to visualize in kibana
+- [jira-metrics-extract](https://github.com/rnwolf/jira-metrics-extract): CLI tool to extract metrics from Jira, save data and charts locally for further analysis & presentation
+- [pandas_agile_metrics](https://github.com/rnwolf/pandas_agile_metrics): Actionable Agile metrics analysis tool kit based on Python
+- [aafmp](https://savannah.nongnu.org/projects/aamfp): a simple personal kanban metrics spreadsheet
+- [jira-agile-velocity](https://github.com/Fgerthoffert/jira-agile-velocity): Connect to Jira REST API to collect completed story points, calculate weekly velocity, and estimate completion date
+
+### Calendars
+
+- [Tutanota](https://tutanota.com/calendar)
+- [Proton Calendar](https://calendar.protonmail.com)
+- [Calendso](https://calendso.com/)
+- [Calendly](https://calendly.com/)
+- [Appoint.ly](https://appoint.ly/)
+
+### Time Management
+
+- [activitywatch](https://github.com/ActivityWatch/activitywatch): Records what you do so that you can know how you've spent your time.
+- [marinara](https://github.com/schmich/marinara): Marinara is a time management assistant for Chrome that follows the Pomodoro Technique.
+- [pomotroid](https://github.com/Splode/pomotroid): Simple and visually-pleasing Pomodoro timer
+- [pomatez](https://github.com/roldanjr/pomatez): Stay Focused. Take a Break.
+- [gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro): A time management utility for GNOME based on the pomodoro technique!
+- [Goodtime](https://github.com/adrcotfas/Goodtime): productivity app for Android
+
+### Code Hosting
+
+- [Github](https://github.com)
+- [Gitlab](https://about.gitlab.com)
+- [Gitea](https://gitea.com)
+- [Sourcehut](https://sr.ht)
+- [git.fuwafuwa.moe](https://git.fuwafuwa.moe)
+- [Launchpad](https://code.launchpad.net)
+
+### Time tracking and contractor management
+
+- [Invoiceninja](https://github.com/invoiceninja/invoiceninja): Invoices, Expenses and Tasks built with Laravel and Flutter
+- [Wakatime](https://github.com/wakatime): Dashboards for developers, powered by open source IDE plugins.
+  - [Vscode](https://github.com/wakatime/vscode-wakatime)
+  - [Sublime](https://github.com/wakatime/sublime-wakatime)
+  - [Atom](https://github.com/wakatime/atom-wakatime)
+  - [Jetbrains](https://github.com/wakatime/jetbrains-wakatime)
+  - [Netbeans](https://github.com/wakatime/netbeans-wakatime)
+  - [Eclipse](https://github.com/wakatime/eclipse-wakatime)
+  - [Vim](https://github.com/wakatime/vim-wakatime)
+  - [Xcode](https://github.com/wakatime/xcode-wakatime)
+  - [Visual studio](https://github.com/wakatime/visualstudio-wakatime)
+- [Activitywatch](https://github.com/ActivityWatch/activitywatch): Records what you do so that you can know how you've spent your time.
+- [Super-productivity](https://github.com/johannesjo/super-productivity): To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
+- [Toggldesktop](https://github.com/toggl-open-source/toggldesktop): Toggl Desktop is a Toggl time tracking client
+- [Kimai2](https://github.com/kevinpapst/kimai2): Kimai v2 is a web-based multiuser time-tracking application
+- [ShareX](https://github.com/ShareX/ShareX): ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key
 
 # Learning
 
