@@ -40,7 +40,7 @@
     - [Communication](#communication)
     - [Email](#email)
     - [Email Clients](#email-clients)
-    - [Diagramming](#diagramming)
+    - [Diagramming & Designing](#diagramming--designing)
     - [Metrics](#metrics)
     - [Calendars](#calendars)
     - [Time Management](#time-management)
@@ -303,23 +303,25 @@
 
 ### Project and task Management
 
-- [OpenProject](https://github.com/opf/openproject)
-- [taiga.io](https://github.com/taigaio)
-- [Redmine](https://www.redmine.org/)
-- [Phabricator](https://phacility.com)
-- [Jira](https://www.atlassian.com/software/jira)
-- [Asana](https://asana.com)
-- [Trello](https://trello.com)
-- [Basecamp](https://basecamp.com)
-- [Monday](https://monday.com)
-- [Clickup](https://clickup.com)
-- [Youtrack](https://www.jetbrains.com/youtrack/)
-- [Github](https://github.com)
-- [Gitlab](https://gitlab.com)
-- [Google sheets](https://sheets.new)
-- [Clubhouse](https://clubhouse.io/)
-- [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)
-- [Project Manager](https://www.projectmanager.com/)
+| Link | Description |
+| --- | --- |
+| [OpenProject](https://github.com/opf/openproject) | OpenProject is the leading open source project management software. |
+| [taiga.io](https://github.com/taigaio) | Your Agile, Free and Open Source Project Management Tool |
+| [Redmine](https://www.redmine.org/) | Redmine is a flexible project management web application. |
+| [Phabricator](https://phacility.com) | Phabricator is a set of tools for developing software. It includes applications for code review, repository hosting, bug tracking, project management, and more. |
+| [Jira](https://www.atlassian.com/software/jira) | The #1 software development tool used by agile teams |
+| [Asana](https://asana.com) | Work on big ideas, without the busywork. |
+| [Trello](https://trello.com) | Trello helps teams move work forward. |
+| [Basecamp](https://basecamp.com) | The All-In-One Toolkit for Working Remotely. |
+| [Monday](https://monday.com) | Easily build, run, and scale your dream workflows on one platform. |
+| [Clickup](https://clickup.com) | All your work in one place: Tasks, docs, chat, goals, & more. |
+| [Youtrack](https://www.jetbrains.com/youtrack/) | The project management tool designed for agile teams |
+| [Github](https://github.com) | GitHub is where over 65 million developers shape the future of software, together​. |
+| [Gitlab](https://gitlab.com) | GitLab is the open DevOps platform |
+| [Google sheets](https://sheets.new) | Google Sheets makes your data pop with colorful charts and graphs. |
+| [Clubhouse](https://clubhouse.io/) | Project management has never been easier |
+| [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) | Meet the simple, powerful, reimagined Project for everyone. |
+| [Project Manager](https://www.projectmanager.com/) | Project Management Software for Professionals |
 
 ### Boards
 
@@ -344,35 +346,40 @@
 
 ### Documentation / Knowledge Management
 
-- [Confluence](https://www.atlassian.com/software/confluence)
-- [Notion](https://notion.so)
-- [Bookstack](https://github.com/BookStackApp/BookStack)
-- [Mediawiki](https://github.com/wikimedia/mediawiki)
-- [Dropbox paper](https://www.dropbox.com/paper)
-- [Google docs](https://docs.new)
-- [Instiki](https://github.com/parasew/instiki)
-- [Nuclino](https://www.nuclino.com)
-- [Slite](https://slite.com)
+| Link | Description |
+| --- | --- |
+| [Confluence](https://www.atlassian.com/software/confluence) | Confluence is your remote-friendly team workspace where knowledge and collaboration meet. |
+| [Notion](https://notion.so) | One tool for your whole team. Write, plan, and get organized. |
+| [Bookstack](https://github.com/BookStackApp/BookStack) | A platform to create documentation/wiki content built with PHP & Laravel |
+| [Mediawiki](https://github.com/wikimedia/mediawiki) | The collaborative editing software that runs Wikipedia. |
+| [Dropbox paper](https://www.dropbox.com/paper) | Real-time editing for teams. |
+| [Google docs](https://docs.new) | Google docs |
+| [Instiki](https://github.com/parasew/instiki) |  Basic wiki clone so pretty and easy to set up, you’ll wonder if it’s really a wiki.  |
+| [Nuclino](https://www.nuclino.com) | A lightweight and collaborative wiki for all your team's knowledge, docs, and notes. |
+| [Slite](https://slite.com) | The perfect communication tool for remote teams |
 
 ### Communication
 
-- [Slack](https://slack.com/)
-- [Mattermost](https://mattermost.com/)
-- [Discord](https://discord.com/)
-- [Rocket.chat](https://rocket.chat/)
-- [jitsi](https://jitsi.org/)
-- [Google Meet](https://meet.google.com/)
-- [Microsoft Teams](https://teams.microsoft.com/)
-- [Gitter](https://gitter.im/)
-- [Flock](https://www.flock.com/)
+| Link | Description |
+| --- | --- |
+| [Slack](https://slack.com/) | Slack makes it downright pleasant to work together |
+| [Mattermost](https://mattermost.com/) | The Only Open Source Collaboration Platform for Developers |
+| [Discord](https://discord.com/) | A place that makes it easy to talk every day and hang out more often. |
+| [Rocket.chat](https://rocket.chat/) | Keep the workflow going by centralizing all your tools and touchpoints in one platform. Made for team collaboration, DevOps and customer engagement. |
+| [jitsi](https://jitsi.org/) | More secure, more flexible, and completely free video conferencing |
+| [Google Meet](https://meet.google.com/) | Real-time meetings by Google. |
+| [Microsoft Teams](https://teams.microsoft.com/) | Microsoft Teams is the hub for team collaboration in Microsoft 365 that integrates the people, content, and tools your team needs. |
+| [Gitter](https://gitter.im/) | Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery. |
+| [Flock](https://www.flock.com/) | Your new home for collaboration. |
 
 ### Email
 
-- [Protonmail](https://protonmail.com)
-- [Tutanota](https://tutanota.com)
-- [Cockmail](https://cock.li)
-- [mailinabox](https://mailinabox.email)
-- [Gmail](https://mail.google.com)
+| Link | Description |
+| --- | --- |
+| [Protonmail](https://protonmail.com) | Secure Email Based in Switzerland |
+| [Tutanota](https://tutanota.com) | Tutanota is the world's most secure email service, easy to use and private by design. |
+| [mailinabox](https://mailinabox.email) | Mail-in-a-Box lets you become your own mail service provider in a few easy steps. |
+| [Gmail](https://mail.google.com) | Gmail is email that's intuitive, efficient, and useful. |
 
 ### Email Clients
 
@@ -387,15 +394,17 @@
 | [Evolution](https://help.gnome.org/users/evolution/stable/) | Evolution is a fully-featured open source groupware application |
 | [Microsoft Office Outlook](https://office.microsoft.com/outlook) | Outlook is a personal information manager that lets you manage your e-mail, calendar, contacts, and tasks. |
 
-### Diagramming
+### Diagramming & Designing
 
-- [Draw.io](https://draw.io)
-- [Lucidchart](https://www.lucidchart.com/)
-- [Miro](https://miro.com)
-- [Sketch](https://www.sketch.com/)
-- [Invision](https://www.invisionapp.com/)
-- [Figma](https://www.figma.com/)
-- [Zeplin](https://zeplin.io/)
+| Link | Description |
+| --- | --- |
+| [Draw.io](https://draw.io) | Flowchart Maker and Online Diagram Software |
+| [Lucidchart](https://www.lucidchart.com/) | Lucidchart is the intelligent diagramming application that brings teams together to make better decisions and build the future. |
+| [Miro](https://miro.com) | The online collaborative whiteboard platform to bring teams together, anytime, anywhere. |
+| [Sketch](https://www.sketch.com/) | A home for the entire collaborative design process.‎ |
+| [Invision](https://www.invisionapp.com/) | The digital product design platform powering the world’s best user experiences |
+| [Figma](https://www.figma.com/) | Figma brings your teams together to design better products from start to finish. |
+| [Zeplin](https://zeplin.io/) | Deliver on the promise of design |
 
 ### Metrics
 
@@ -411,11 +420,13 @@
 
 ### Calendars
 
-- [Tutanota](https://tutanota.com/calendar)
-- [Proton Calendar](https://calendar.protonmail.com)
-- [Calendso](https://calendso.com/)
-- [Calendly](https://calendly.com/)
-- [Appoint.ly](https://appoint.ly/)
+| Link | Description |
+| --- | --- |
+| [Tutanota](https://tutanota.com/calendar) | Zero-knowledge calendar |
+| [Proton Calendar](https://calendar.protonmail.com) | Encrypted calendar |
+| [Calendso](https://calendso.com/) | The Open Source Calendly Alternative |
+| [Calendly](https://calendly.com/) | Calendly is your hub for scheduling meetings professionally and efficiently, eliminating the hassle of back-and-forth emails so you can get back to work. |
+| [Appoint.ly](https://appoint.ly/) | Appointment scheduling software helps to book 1-on-1 meetings with people all over the world, avoid double booking and save time! |
 
 ### Time Management
 
@@ -430,12 +441,13 @@
 
 ### Code Hosting
 
-- [Github](https://github.com)
-- [Gitlab](https://about.gitlab.com)
-- [Gitea](https://gitea.com)
-- [Sourcehut](https://sr.ht)
-- [git.fuwafuwa.moe](https://git.fuwafuwa.moe)
-- [Launchpad](https://code.launchpad.net)
+| Link | Description |
+| --- | --- |
+| [Github](https://github.com) | GitHub is where over 65 million developers shape the future of software, together​. |
+| [Gitlab](https://gitlab.com) | GitLab is the open DevOps platform |
+| [Gitea](https://gitea.com) | A painless, self-hosted Git service |
+| [Sourcehut](https://sr.ht) | sourcehut, the hacker's forge! |
+| [Launchpad](https://code.launchpad.net) | Launchpad can host your project’s source code using the Bazaar version control system. |
 
 ### Time tracking and contractor management
 
