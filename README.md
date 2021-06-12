@@ -323,20 +323,24 @@
 
 ### Boards
 
-- [focalboard](https://github.com/mattermost/focalboard): Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [react-kanban](https://github.com/markusenglund/react-kanban): A server-rendered React app inspired by Trello.
-- [wekan](https://github.com/wekan/wekan): Open Source kanban
-- [kanboard](https://github.com/kanboard/kanboard): Kanban project management software
-- [huboard](https://github.com/huboard/huboard): Instant task management for your GitHub repositories
-- [nullboard](https://github.com/apankrat/nullboard): Nullboard is a minimalist kanban board, focused on compactness and readability.
+| Link | Description |
+| --- | --- |
+| [focalboard](https://github.com/mattermost/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. |
+| [react-kanban](https://github.com/markusenglund/react-kanban) | A server-rendered React app inspired by Trello. |
+| [wekan](https://github.com/wekan/wekan) | Open Source kanban |
+| [kanboard](https://github.com/kanboard/kanboard) | Kanban project management software |
+| [huboard](https://github.com/huboard/huboard) | Instant task management for your GitHub repositories |
+| [nullboard](https://github.com/apankrat/nullboard) | Nullboard is a minimalist kanban board, focused on compactness and readability. |
 
 ### Standups
 
-- [git-standup](https://github.com/kamranahmedse/git-standup): Recall what you did on the last working day.
-- [standuptimer.app](https://standuptimer.app): Use this free timer for your team standups to keep them on track
-- [scrumbot](https://github.com/redsift/scrumbot): Slack bot for standup meetings
-- [slack-standup-bot](https://github.com/colestrode/slack-standup-bot): Daily, weekly, whenever standup bot for Slack
-- [standup-raven](https://github.com/standup-raven/standup-raven): A Mattermost plugin for communicating daily standups across teams
+| Link | Description |
+| --- | --- |
+| [git-standup](https://github.com/kamranahmedse/git-standup) | Recall what you did on the last working day. |
+| [standuptimer.app](https://standuptimer.app) | Use this free timer for your team standups to keep them on track |
+| [scrumbot](https://github.com/redsift/scrumbot) | Slack bot for standup meetings |
+| [slack-standup-bot](https://github.com/colestrode/slack-standup-bot) | Daily, weekly, whenever standup bot for Slack |
+| [standup-raven](https://github.com/standup-raven/standup-raven) | A Mattermost plugin for communicating daily standups across teams |
 
 ### Documentation / Knowledge Management
 
@@ -372,14 +376,16 @@
 
 ### Email Clients
 
-- [Nylas](https://github.com/nylas/nylas-mail): An extensible desktop mail app built on the modern web.
-- [Mailspring](https://github.com/Foundry376/Mailspring): A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-- [Thunderbird](https://www.thunderbird.net/): Make Email Easier.
-- [Shift](https://tryshift.com/): Shift is a desktop app for streamlining all of your email and app accounts.
-- [Rambox](https://github.com/ramboxapp/community-edition): Free and Open Source messaging and emailing app that combines common web applications into one.
-- [K9](https://github.com/k9mail/k-9): K-9 Mail – Open Source Email App for Android
-- [Evolution](https://help.gnome.org/users/evolution/stable/): Evolution is a fully-featured open source groupware application
-- [Microsoft Office Outlook](https://office.microsoft.com/outlook): Outlook is a personal information manager that lets you manage your e-mail, calendar, contacts, and tasks.
+| Link | Description |
+| --- | --- |
+| [Nylas](https://github.com/nylas/nylas-mail) | An extensible desktop mail app built on the modern web. |
+| [Mailspring](https://github.com/Foundry376/Mailspring) | A beautiful, fast and fully open source mail client for Mac, Windows and Linux. |
+| [Thunderbird](https://www.thunderbird.net/) | Make Email Easier. |
+| [Shift](https://tryshift.com/) | Shift is a desktop app for streamlining all of your email and app accounts. |
+| [Rambox](https://github.com/ramboxapp/community-edition) | Free and Open Source messaging and emailing app that combines common web applications into one. |
+| [K9](https://github.com/k9mail/k-9) | K-9 Mail – Open Source Email App for Android |
+| [Evolution](https://help.gnome.org/users/evolution/stable/) | Evolution is a fully-featured open source groupware application |
+| [Microsoft Office Outlook](https://office.microsoft.com/outlook) | Outlook is a personal information manager that lets you manage your e-mail, calendar, contacts, and tasks. |
 
 ### Diagramming
 
@@ -393,13 +399,15 @@
 
 ### Metrics
 
-- [jira-agile-metrics](https://github.com/DeloitteDigitalUK/jira-agile-metrics): A tool to extract Agile metrics and charts from JIRA projects and Trello Boards
-- [agile-metrics-tools](https://github.com/patitalabs/agile-metrics-tools): Agile metrics tools allows you to track metrics from different sources
-- [agile-metrics](https://github.com/DaGrisa/agile-metrics): collecting agile metrics from jira, bitbucket, sonarqube and send them to elastic stack to visualize in kibana
-- [jira-metrics-extract](https://github.com/rnwolf/jira-metrics-extract): CLI tool to extract metrics from Jira, save data and charts locally for further analysis & presentation
-- [pandas_agile_metrics](https://github.com/rnwolf/pandas_agile_metrics): Actionable Agile metrics analysis tool kit based on Python
-- [aafmp](https://savannah.nongnu.org/projects/aamfp): a simple personal kanban metrics spreadsheet
-- [jira-agile-velocity](https://github.com/Fgerthoffert/jira-agile-velocity): Connect to Jira REST API to collect completed story points, calculate weekly velocity, and estimate completion date
+| Link | Description |
+| --- | --- |
+| [jira-agile-metrics](https://github.com/DeloitteDigitalUK/jira-agile-metrics) | A tool to extract Agile metrics and charts from JIRA projects and Trello Boards |
+| [agile-metrics-tools](https://github.com/patitalabs/agile-metrics-tools) | Agile metrics tools allows you to track metrics from different sources |
+| [agile-metrics](https://github.com/DaGrisa/agile-metrics) | collecting agile metrics from jira, bitbucket, sonarqube and send them to elastic stack to visualize in kibana |
+| [jira-metrics-extract](https://github.com/rnwolf/jira-metrics-extract) | CLI tool to extract metrics from Jira, save data and charts locally for further analysis & presentation |
+| [pandas_agile_metrics](https://github.com/rnwolf/pandas_agile_metrics) | Actionable Agile metrics analysis tool kit based on Python |
+| [aafmp](https://savannah.nongnu.org/projects/aamfp) | a simple personal kanban metrics spreadsheet |
+| [jira-agile-velocity](https://github.com/Fgerthoffert/jira-agile-velocity) | Connect to Jira REST API to collect completed story points, calculate weekly velocity, and estimate completion date |
 
 ### Calendars
 
@@ -411,12 +419,14 @@
 
 ### Time Management
 
-- [activitywatch](https://github.com/ActivityWatch/activitywatch): Records what you do so that you can know how you've spent your time.
-- [marinara](https://github.com/schmich/marinara): Marinara is a time management assistant for Chrome that follows the Pomodoro Technique.
-- [pomotroid](https://github.com/Splode/pomotroid): Simple and visually-pleasing Pomodoro timer
-- [pomatez](https://github.com/roldanjr/pomatez): Stay Focused. Take a Break.
-- [gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro): A time management utility for GNOME based on the pomodoro technique!
-- [Goodtime](https://github.com/adrcotfas/Goodtime): productivity app for Android
+| Link | Description |
+| --- | --- |
+| [activitywatch](https://github.com/ActivityWatch/activitywatch) | Records what you do so that you can know how you've spent your time. |
+| [marinara](https://github.com/schmich/marinara) | Marinara is a time management assistant for Chrome that follows the Pomodoro Technique. |
+| [pomotroid](https://github.com/Splode/pomotroid) | Simple and visually-pleasing Pomodoro timer |
+| [pomatez](https://github.com/roldanjr/pomatez) | Stay Focused. Take a Break. |
+| [gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro) | A time management utility for GNOME based on the pomodoro technique! |
+| [Goodtime](https://github.com/adrcotfas/Goodtime) | productivity app for Android |
 
 ### Code Hosting
 
@@ -429,37 +439,32 @@
 
 ### Time tracking and contractor management
 
-- [Invoiceninja](https://github.com/invoiceninja/invoiceninja): Invoices, Expenses and Tasks built with Laravel and Flutter
-- [Wakatime](https://github.com/wakatime): Dashboards for developers, powered by open source IDE plugins.
-  - [Vscode](https://github.com/wakatime/vscode-wakatime)
-  - [Sublime](https://github.com/wakatime/sublime-wakatime)
-  - [Atom](https://github.com/wakatime/atom-wakatime)
-  - [Jetbrains](https://github.com/wakatime/jetbrains-wakatime)
-  - [Netbeans](https://github.com/wakatime/netbeans-wakatime)
-  - [Eclipse](https://github.com/wakatime/eclipse-wakatime)
-  - [Vim](https://github.com/wakatime/vim-wakatime)
-  - [Xcode](https://github.com/wakatime/xcode-wakatime)
-  - [Visual studio](https://github.com/wakatime/visualstudio-wakatime)
-- [Activitywatch](https://github.com/ActivityWatch/activitywatch): Records what you do so that you can know how you've spent your time.
-- [Super-productivity](https://github.com/johannesjo/super-productivity): To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
-- [Toggldesktop](https://github.com/toggl-open-source/toggldesktop): Toggl Desktop is a Toggl time tracking client
-- [Kimai2](https://github.com/kevinpapst/kimai2): Kimai v2 is a web-based multiuser time-tracking application
-- [ShareX](https://github.com/ShareX/ShareX): ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key
+| Link | Description |
+| --- | --- |
+| [Invoiceninja](https://github.com/invoiceninja/invoiceninja) | Invoices, Expenses and Tasks built with Laravel and Flutter |
+| [Wakatime](https://github.com/wakatime) | Dashboards for developers, powered by open source IDE plugins. |
+| [Activitywatch](https://github.com/ActivityWatch/activitywatch) | Records what you do so that you can know how you've spent your time. |
+| [Super-productivity](https://github.com/johannesjo/super-productivity) | To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration |
+| [Toggldesktop](https://github.com/toggl-open-source/toggldesktop) | Toggl Desktop is a Toggl time tracking client |
+| [Kimai2](https://github.com/kevinpapst/kimai2) | Kimai v2 is a web-based multiuser time-tracking application |
+| [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key |
 
 ### Mentoring
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2021
-- [awesome-quality-assurance-roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap): The starting point of your career as a Software Quality Assurance Engineer | Quality Automation Engineer
-- [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans): An ultra-simplified explanation to design patterns
-- [ossu/computer-science](https://github.com/ossu/computer-science): Path to a free self-taught education in Computer Science!
-- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood): Falsehoods Programmers Believe in
-- [system_design](https://github.com/shashank88/system_design): Preparation links and resources for system design questions
-- [study-path](https://github.com/joebew42/study-path):  An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
-- [best-practices-checklist](https://github.com/palash25/best-practices-checklist): A list of awesome idiomatic code resources.
-- [pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers): A curated list of topics to start learning software engineering
-- [evergreen-skills-developers](https://github.com/romenrg/evergreen-skills-developers): List of evergreen skills, based on software development best practices & cross-framework principles, that should serve as a fair assessment of skilled software engineers / developers
-- [awesome-courses](https://github.com/prakhar1989/awesome-courses): List of awesome university courses for learning Computer Science!
-- [awesome-testing-courses](https://github.com/upgundecha/awesome-testing-courses): A curated list of awesome online courses and tutorials on software testing, test automation and more.
+| Link | Description |
+| --- | --- |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 |
+| [awesome-quality-assurance-roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap) | The starting point of your career as a Software Quality Assurance Engineer | Quality Automation Engineer |
+| [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) | An ultra-simplified explanation to design patterns |
+| [ossu/computer-science](https://github.com/ossu/computer-science) | Path to a free self-taught education in Computer Science! |
+| [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) | Falsehoods Programmers Believe in |
+| [system_design](https://github.com/shashank88/system_design) | Preparation links and resources for system design questions |
+| [study-path](https://github.com/joebew42/study-path) |  An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture |
+| [best-practices-checklist](https://github.com/palash25/best-practices-checklist) | A list of awesome idiomatic code resources. |
+| [pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers) | A curated list of topics to start learning software engineering |
+| [evergreen-skills-developers](https://github.com/romenrg/evergreen-skills-developers) | List of evergreen skills, based on software development best practices & cross-framework principles, that should serve as a fair assessment of skilled software engineers / developers |
+| [awesome-courses](https://github.com/prakhar1989/awesome-courses) | List of awesome university courses for learning Computer Science! |
+| [awesome-testing-courses](https://github.com/upgundecha/awesome-testing-courses) | A curated list of awesome online courses and tutorials on software testing, test automation and more. |
 
 # Learning
 
@@ -482,8 +487,10 @@
 
 ## Useful resources
 
-- [Career Ladders](https://career-ladders.dev): Roles and responsibilities of various members of tech.
-- [levels.fyi](http://levels.fyi/): Compensations at various levels
+| Link | Description |
+| --- | --- |
+| [Career Ladders](https://career-ladders.dev) | Roles and responsibilities of various members of tech. |
+| [levels.fyi](http://levels.fyi/) | Compensations at various levels |
 
 ## Other Awesome Lists
 
