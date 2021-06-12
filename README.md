@@ -487,15 +487,18 @@
 
 ## Other Awesome Lists
 
-- [the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist): Books for people who are or aspire to manage/lead team(s) of software engineers
-- [awesome-cto](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- [awesome-startup](https://github.com/KrishMunot/awesome-startup): All the required resources to build your own startup
-- [engineering-management](https://github.com/charlax/engineering-management): A collection of inspiring resources related to engineering management and tech leadership
-- [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing): Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-- [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management): How to transition from software development to engineering management
-- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs): A curated list of engineering blogs
-- [empathy-in-engineering](https://github.com/KimberlyMunoz/empathy-in-engineering): A curated list of resources for building and promoting more compassionate engineering cultures
-- [awesome-project-management](https://github.com/shahedbd/awesome-project-management): Awesome lists about Project Management interesting and useful topics.
-- [engineer-manager](https://github.com/ryanburgess/engineer-manager): A list of engineering manager resource links.
+| Link | Description |
+| --- | --- |
+| [the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) | Books for people who are or aspire to manage/lead team(s) of software engineers |
+| [awesome-cto](https://github.com/kuchin/awesome-cto) | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups |
+| [awesome-startup](https://github.com/KrishMunot/awesome-startup) | All the required resources to build your own startup |
+| [engineering-management](https://github.com/charlax/engineering-management) | A collection of inspiring resources related to engineering management and tech leadership |
+| [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) | Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. |
+| [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) | How to transition from software development to engineering management |
+| [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) | A curated list of engineering blogs |
+| [empathy-in-engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) | A curated list of resources for building and promoting more compassionate engineering cultures |
+| [awesome-project-management](https://github.com/shahedbd/awesome-project-management) | Awesome lists about Project Management interesting and useful topics. |
+| [engineer-manager](https://github.com/ryanburgess/engineer-manager) | A list of engineering manager resource links. |
+
 
 # [Laws to live by](https://github.com/dwmkerr/hacker-laws)
