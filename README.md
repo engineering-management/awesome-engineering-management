@@ -88,7 +88,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Rapid_application_development)
 
 ### Extreme programming
-- [Manifesto](www.extremeprogramming.org)
+- [Manifesto](http://www.extremeprogramming.org)
 - [Process Model](http://www.extremeprogramming.org/rules.html)
 - Books
   - [Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
