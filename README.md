@@ -50,6 +50,7 @@
 - [Learning](#learning)
   - [Books](#books)
   - [Certifications](#certifications)
+  - [Courses](#courses)
   - [Useful resources](#useful-resources)
   - [Other Awesome Lists](#other-awesome-lists)
 - [Laws to live by](#laws-to-live-by)
@@ -496,6 +497,10 @@
 
 - [https://www.pmi.org/certifications](https://www.pmi.org/certifications)
 - Others: https://www.cio.com/article/3210765/top-project-management-certifications.html
+
+## Courses
+
+- [Engineering Management Interview Course](https://www.tryexponent.com/courses/engineering-management)
 
 ## Useful resources
 
