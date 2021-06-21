@@ -50,6 +50,7 @@
 - [Learning](#learning)
   - [Books](#books)
   - [Certifications](#certifications)
+  - [Courses](#courses)
   - [Useful resources](#useful-resources)
   - [Other Awesome Lists](#other-awesome-lists)
 - [Laws to live by](#laws-to-live-by)
@@ -496,6 +497,13 @@
 
 - [https://www.pmi.org/certifications](https://www.pmi.org/certifications)
 - Others: https://www.cio.com/article/3210765/top-project-management-certifications.html
+
+## Courses
+
+- [Engineering Management Interview Course - Exponent](https://www.tryexponent.com/courses/engineering-management)
+- [Foundations of Project Management by Google - Coursera](https://www.coursera.org/learn/project-management-foundations)
+- [Ace Manager Job Interview & Career (Engineering Tech & Other - Udemy](https://www.udemy.com/course/acemanager/)
+- [Practical Team Management for Software Engineers - PluralSight](https://www.pluralsight.com/courses/practical-team-management-software-engineers)
 
 ## Useful resources
 
