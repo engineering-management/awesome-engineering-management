@@ -500,7 +500,10 @@
 
 ## Courses
 
-- [Engineering Management Interview Course](https://www.tryexponent.com/courses/engineering-management)
+- [Engineering Management Interview Course - Exponent](https://www.tryexponent.com/courses/engineering-management)
+- [Foundations of Project Management by Google - Coursera](https://www.coursera.org/learn/project-management-foundations)
+- [Ace Manager Job Interview & Career (Engineering Tech & Other - Udemy](https://www.udemy.com/course/acemanager/)
+- [Practical Team Management for Software Engineers - PluralSight](https://www.pluralsight.com/courses/practical-team-management-software-engineers)
 
 ## Useful resources
 
