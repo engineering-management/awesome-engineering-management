@@ -234,7 +234,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 - Templates
   - [Miro](https://miro.com/templates/raci-matrix/) 
-  - [Confluence](https://www.atlassian.com/software/confluence/templates/decision) Replace D with R 😅
+  - [Confluence](https://www.atlassian.com/software/confluence/templates/decision)
 
 ### Decision tree
 
