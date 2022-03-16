@@ -480,6 +480,9 @@
 | [evergreen-skills-developers](https://github.com/romenrg/evergreen-skills-developers) | List of evergreen skills, based on software development best practices & cross-framework principles, that should serve as a fair assessment of skilled software engineers / developers |
 | [awesome-courses](https://github.com/prakhar1989/awesome-courses) | List of awesome university courses for learning Computer Science! |
 | [awesome-testing-courses](https://github.com/upgundecha/awesome-testing-courses) | A curated list of awesome online courses and tutorials on software testing, test automation and more. |
+| [System design primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+
+
 
 # Learning
 
@@ -514,7 +517,7 @@
 | [Career Ladders](https://career-ladders.dev) | Roles and responsibilities of various members of tech. |
 | [levels.fyi](http://levels.fyi/) | Compensations at various levels |
 
-## Other Awesome Lists
+## Related Awesome Lists
 
 | Link | Description |
 | --- | --- |
