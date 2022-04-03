@@ -515,6 +515,7 @@
 | Link | Description |
 | --- | --- |
 | [Career Ladders](https://career-ladders.dev) | Roles and responsibilities of various members of tech. |
+| [Engineering Ladders](http://www.engineeringladders.com) | A framework for Engineering Managers. |
 | [levels.fyi](http://levels.fyi/) | Compensations at various levels |
 
 ## Related Awesome Lists
