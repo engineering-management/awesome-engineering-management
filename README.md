@@ -509,6 +509,7 @@
 - [Foundations of Project Management by Google - Coursera](https://www.coursera.org/learn/project-management-foundations)
 - [Ace Manager Job Interview & Career (Engineering Tech & Other - Udemy](https://www.udemy.com/course/acemanager/)
 - [Practical Team Management for Software Engineers - PluralSight](https://www.pluralsight.com/courses/practical-team-management-software-engineers)
+- [General Project Management](https://www.mpug.com/mpug_categories/general-project-management/)
 
 ## Useful resources
 
