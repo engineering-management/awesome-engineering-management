@@ -60,6 +60,8 @@
     - [Mentoring](#mentoring)
 - [Learning](#learning)
   - [Books](#books)
+  - [Certifications](#certifications)
+  - [Courses](#courses)
   - [Useful resources](#useful-resources)
   - [Other Awesome Lists](#other-awesome-lists)
 - [Laws to live by](#laws-to-live-by)
@@ -101,7 +103,7 @@
 
 ### Extreme programming
 
-- [Manifesto](www.extremeprogramming.org)
+- [Manifesto](http://www.extremeprogramming.org)
 - [Process Model](http://www.extremeprogramming.org/rules.html)
 - Books
   - [Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
@@ -357,7 +359,8 @@
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 - Templates
-  - [Miro](https://miro.com/templates/raci-matrix/)
+  - [Miro](https://miro.com/templates/raci-matrix/) 
+  - [Confluence](https://www.atlassian.com/software/confluence/templates/decision)
 
 ### Decision tree
 
@@ -496,6 +499,7 @@
 | [Microsoft Teams](https://teams.microsoft.com/) | Microsoft Teams is the hub for team collaboration in Microsoft 365 that integrates the people, content, and tools your team needs. |
 | [Gitter](https://gitter.im/) | Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery. |
 | [Flock](https://www.flock.com/) | Your new home for collaboration. |
+| [flat.social](https://www.flat.social/) | Spatial online meetings for remote teams that promote collaboration, creativity and spontaneous interactions. |
 
 ### Email Clients
 
@@ -543,6 +547,7 @@
 | [Calendso](https://calendso.com/) | The Open Source Calendly Alternative |
 | [Calendly](https://calendly.com/) | Calendly is your hub for scheduling meetings professionally and efficiently, eliminating the hassle of back-and-forth emails so you can get back to work. |
 | [Appoint.ly](https://appoint.ly/) | Appointment scheduling software helps to book 1-on-1 meetings with people all over the world, avoid double booking and save time! |
+| [Zeeg](https://zeeg.me/) | Your smart business card! An advanced scheduling assistant with your own beautiful minimal website. Your Zeeg link is the only link you really need! |
 
 ### Time Management
 
@@ -593,6 +598,9 @@
 | [evergreen-skills-developers](https://github.com/romenrg/evergreen-skills-developers) | List of evergreen skills, based on software development best practices & cross-framework principles, that should serve as a fair assessment of skilled software engineers / developers |
 | [awesome-courses](https://github.com/prakhar1989/awesome-courses) | List of awesome university courses for learning Computer Science! |
 | [awesome-testing-courses](https://github.com/upgundecha/awesome-testing-courses) | A curated list of awesome online courses and tutorials on software testing, test automation and more. |
+| [System design primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+
+
 
 # Learning
 
@@ -612,6 +620,13 @@
 - [Attest Engineering Handbook](https://attest.dev/handbook/engineering-management-growth-framework/)
 - [https://monzo.com/documents/engineering-manager-framework-v1-0.pdf](https://monzo.com/documents/engineering-manager-framework-v1-0.pdf)
 
+## Courses
+
+- [Engineering Management Interview Course - Exponent](https://www.tryexponent.com/courses/engineering-management)
+- [Foundations of Project Management by Google - Coursera](https://www.coursera.org/learn/project-management-foundations)
+- [Ace Manager Job Interview & Career (Engineering Tech & Other - Udemy](https://www.udemy.com/course/acemanager/)
+- [Practical Team Management for Software Engineers - PluralSight](https://www.pluralsight.com/courses/practical-team-management-software-engineers)
+
 ## Useful resources
 
 | Link | Description |
@@ -622,7 +637,7 @@
 | [levels.fyi](http://levels.fyi/) | Compensations at various levels |
 | [roadmaps.sh](https://roadmap.sh/) | Engineering career roadmaps |
 
-## Other Awesome Lists
+## Related Awesome Lists
 
 | Link | Description |
 | --- | --- |
