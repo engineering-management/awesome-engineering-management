@@ -11,6 +11,18 @@
     - [Rapid Prototyping](#rapid-prototyping)
     - [Incremental](#incremental)
     - [Cleanroom](#cleanroom)
+  - [People Management](#people-management)
+    - [Running one-on-ones](#running-one-on-ones)
+    - [Building credibility](#building-credibility)
+    - [Building Strategic roadmaps](#building-strategic-roadmaps)
+    - [Motivating teams](#motivating-teams)
+    - [Hiring](#hiring)
+    - [Goal Setting](#goal-setting)
+    - [Prioritization](#prioritization)
+    - [Collaboration](#collaboration)
+    - [Conflict resolution](#conflict-resolution)
+    - [Performance Management](#performance-management)
+    - [Feedback](#feedback)
   - [Processes and Artifacts](#processes-and-artifacts)
     - [Project Charter](#project-charter)
     - [Project Management Plan](#project-management-plan)
@@ -38,9 +50,8 @@
     - [Standups](#standups)
     - [Documentation / Knowledge Management](#documentation--knowledge-management)
     - [Communication](#communication)
-    - [Email](#email)
     - [Email Clients](#email-clients)
-    - [Diagramming & Designing](#diagramming--designing)
+    - [Diagramming \& Designing](#diagramming--designing)
     - [Metrics](#metrics)
     - [Calendars](#calendars)
     - [Time Management](#time-management)
@@ -49,7 +60,6 @@
     - [Mentoring](#mentoring)
 - [Learning](#learning)
   - [Books](#books)
-  - [Certifications](#certifications)
   - [Useful resources](#useful-resources)
   - [Other Awesome Lists](#other-awesome-lists)
 - [Laws to live by](#laws-to-live-by)
@@ -59,6 +69,7 @@
 ## Models and Methodologies
 
 ### Agile
+
 - [Manifesto](http://agilemanifesto.org/)
 - [Patterns](https://sites.google.com/site/agilepatterns/)
 - [Glossary](https://www.agilealliance.org/agile101/agile-glossary/)
@@ -75,6 +86,7 @@
   - [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649/133-3474474-6617213?psc=1)
 
 ### Rapid application development
+
 - [Introduction](https://ncube.com/blog/what-is-rapid-application-development)
 - [Tools](https://marutitech.com/rapid-application-development-tools/)
 - Books
@@ -88,6 +100,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Rapid_application_development)
 
 ### Extreme programming
+
 - [Manifesto](www.extremeprogramming.org)
 - [Process Model](http://www.extremeprogramming.org/rules.html)
 - Books
@@ -97,6 +110,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming)
 
 ### Waterfall
+
 - [Process Model](https://www.sciencedirect.com/topics/computer-science/waterfall-model)
 - [Methodology](https://www.workfront.com/project-management/methodologies/waterfall)
 - [References](https://www.ionos.com/digitalguide/websites/web-development/waterfall-methodology/)
@@ -107,6 +121,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Waterfall_model)
 
 ### Rapid Prototyping
+
 - [Introduction](https://www.productplan.com/glossary/rapid-prototyping/)
 - [Tools](https://blog.logrocket.com/the-7-best-tools-for-rapid-prototyping/)
 - Papers
@@ -115,11 +130,13 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Software_prototyping)
 
 ### Incremental
+
 - Books
   - [Software Engineering: A Practitioner's Approach](https://www.amazon.com/ISE-SOFTWARE-ENGINEERING-PRACTITIONERS-APPROACH/dp/1260548007)
 - [Wikipedia](https://en.wikipedia.org/wiki/Incremental_build_model)
 
 ### Cleanroom
+
 - [Process Model](https://ieeexplore.ieee.org/abstract/document/268956)
 - [Reference](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=12635)
 - Papers
@@ -128,6 +145,114 @@
 - Books
   - [Toward Zero-Defect Programming](https://www.amazon.com/Toward-Defect-Programming-Allan-Stavely/dp/0201385953)
 - [Wikipedia](https://en.wikipedia.org/wiki/Cleanroom_software_engineering)
+
+
+## People Management
+
+### Running one-on-ones
+
+- [1-1|GitLab](https://about.gitlab.com/handbook/leadership/1-1/)
+- [Running one-on-ones – The Manager's Handbook](https://themanagershandbook.com/coaching-and-feedback/running-one-on-ones)
+- [One-on-One Meetings (The Complete Guide) | Friday.app](https://friday.app/p/one-on-ones)
+- [How to Make Your One-on-Ones with Employees More Productive](https://hbr.org/2016/08/how-to-make-your-one-on-ones-with-employees-more-productive)
+- [How to Have Effective 1 on 1 Meetings with Your Manager](https://getlighthouse.com/blog/effective-1-on-1-meetings/)
+- [The Ultimate Guide to Manager One-on-Ones](https://lattice.com/library/the-ultimate-guide-to-one-on-ones)
+- [How to Run Exceptional One-on-Ones | by Dave Bailey | The Founder Coach Blog](https://medium.dave-bailey.com/how-to-run-exceptional-one-on-ones-7cf9f22fce6e?gi=6e2f61047c10)tartup | Medium](https://medium.com/swlh/one-on-ones-are-my-most-valuable-meetings-heres-how-i-run-them-d9ae7c64dade)
+
+### Building credibility
+
+- [How to build trust on engineering teams | The Enterprisers Project](https://enterprisersproject.com/article/2020/6/how-build-trust-engineering-teams)
+- [How to Build Credibility at Work. Nothing arises suspicions about… | by Patricia Repolda | The Startup | Medium](https://medium.com/swlh/how-to-build-credibility-at-work-d48892ec8512)
+- [How To Become A Subject Matter Expert: 5 Ways To Establish Credibility And Executive Presence](https://www.forbes.com/sites/chriswestfall/2021/08/06/how-to-become-a-subject-matter-expert-5-ways-to-establish-credibility-and-executive-presence/)
+- [A Most Critical Engineering Career Success Factor: Technical Credibility | Penn State College of Engineering](https://sites.psu.edu/engineering/2015/05/15/a-most-critical-engineering-career-success-factor-technical-credibility/)
+- [How to build credibility with your team - Torch](https://torch.io/blog/how-to-build-credibility-with-your-team/)
+- [7 Ways to Build Credibility When You're a New Leader](https://blog.hubspot.com/marketing/build-credibility-new-leader)
+
+### Building Strategic roadmaps
+
+- [Maximize your team. How I created an Engineering Roadmap](https://johngrahamdev.com/Building-An-Engineering-Roadmap/)
+- [Podcast 376: Writing the roadmap from engineer to manager - Stack Overflow Blog](https://stackoverflow.blog/2021/09/17/podcast-376-writing-the-roadmap-from-engineer-to-manager/)
+- [4. Building Effective Roadmaps - 97 Things Every Engineering Manager Should Know [Book]](https://www.oreilly.com/library/view/97-things-every/9781492050896/ch04.html)
+- [Engineering Team Roadmaps. | by Michael Krisher | The Startup | Medium](https://medium.com/swlh/engineering-team-roadmaps-9b3d1ef764d5)
+- [The Mystical Engineering Roadmap](https://dispel.io/blog/the-mystical-engineering-roadmap/)
+- [Engineering Roadmap](https://nimblehq.co/compass/team/engineering/roadmap/)
+- [How to Create an Engineering Roadmap | Step-by-Step Guide](https://www.productplan.com/learn/engineering-roadmap/)
+- [Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
+
+### Motivating teams
+
+- [Habits of High-Functioning Teams | deniseyu.io](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html)
+- [10 Ways to Motivate Employees with One on One Meetings](https://www.peoplebox.ai/blog/10-ways-to-use-one-on-one-meetings-to-motivate-employees/)
+- [Managing motivation on software engineering teams](https://www.linkedin.com/pulse/managing-motivation-software-engineering-teams-usman-ismail)
+- [Building and Motivating Engineering Teams | by Camille Fournier](https://medium.com/swlh/building-and-motivating-engineering-teams-24fd56910039)
+- [Creating and sustaining motivation in your engineering team - YouTube](https://www.youtube.com/watch?v=M5w_hxyzwNk)
+- [Motivating Engineering Teams - API Canary](https://www.apicanary.com/blog/motivating-engineering-teams/)
+- [About Team motivation or What Motivates Your Dev Team? - GoRetro](https://www.goretro.ai/post/team-motivation)
+
+### Hiring
+
+- [How to Hire | Carta](https://carta.com/blog/how-to-hire/)
+- [Hiring 101 – The Manager's Handbook](https://themanagershandbook.com/hiring-and-onboarding/hiring-101)
+- [How to drive away your best engineers. | Hulacorn Blog](https://blog.hulacorn.com/2021/09/08/how-to-drive-away-your-best-engineers/)
+- [Hiring 101 – The Manager's Handbook](https://themanagershandbook.com/hiring-and-onboarding/hiring-101)
+- [Ask HN: How do small companies do recruitment? | Hacker News](https://news.ycombinator.com/item?id=30098607)
+
+### Goal Setting
+
+- [Clarity – The Manager's Handbook](https://themanagershandbook.com/creating-and-achieving-goals/clarity)
+- [How to Set KPIs and Goals (SUS 2019)  : YC Startup Library | Y CombinatorTwitterFacebookInstagramLinkedInYouTube](https://www.ycombinator.com/library/6j-how-to-set-kpis-and-goals-sus-2019)
+- [Engineering Managers and productivity: 7 guiding objectives for supporting your team](https://www.linkedin.com/pulse/engineering-managers-productivity-7-guiding-objectives-simone-basso)
+- [Engineering goals: How to set goals for high-performing teams | Hypercontext](https://hypercontext.com/blog/work-goals/engineering-goals)
+
+### Prioritization
+
+- [RICE Scoring Model | Prioritization Method Overview](https://www.productplan.com/glossary/rice-scoring-model/)
+- [What is an Action Priority Matrix? | Definition and Overview](https://www.productplan.com/glossary/action-priority-matrix/)
+- [What is Affinity Grouping Prioritization? | Definition and Overview](https://www.productplan.com/glossary/affinity-grouping/)
+- [Affinity Diagram | Definition and Overview](https://www.productplan.com/glossary/affinity-diagram/)
+- [Buy-a-Feature Prioritization Model | Definition and Overview](https://www.productplan.com/glossary/buy-a-feature/)
+- [What is the Cost of Delay framework? | Definition and Overview](https://www.productplan.com/glossary/cost-of-delay/)
+- [Eisenhower Matrix | Prioritization Framework | Definition and Examples](https://www.productplan.com/glossary/eisenhower-matrix/)
+- [What is the Kano Model? | Definition and Overview of Kano](https://www.productplan.com/glossary/kano-model/)
+- [What is MoSCoW Prioritization? | Overview of the MoSCoW Method](https://www.productplan.com/glossary/moscow-prioritization/)
+- [The Product Tree Prioritization Framework | Overview](https://www.productplan.com/glossary/product-tree/)
+- [Value vs. Complexity Prioritization Model | Definition and Overview](https://www.productplan.com/glossary/value-vs-complexity/)
+- [Weighted Scoring | Definition and Overview](https://www.productplan.com/glossary/weighted-scoring/)
+
+### Collaboration
+
+- [There is no “us” in team | Structure and Interpretation of Computer Programmers](https://www.sicpers.info/2021/06/there-is-no-us-in-team/)
+- [Jade Rubick - How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
+- [The effects of remote work on collaboration among information workers | Nature Human Behaviour](https://www.nature.com/articles/s41562-021-01196-4#MOESM1)
+
+### Conflict resolution
+
+- [Conflict resolution 101 for startups](https://blog.close.com/conflict-resolution-101-for-startups/)
+- [Good conflicts – The Manager's Handbook](https://themanagershandbook.com/conflict-resolution/good-conflicts)
+- [How to Deliver Constructive Feedback in Difficult Situations | by Dave Bailey | The Founder Coach Blog](https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf)
+- [How to Resolve a Conflict Where Both Sides Are Right | by Dave Bailey | The Founder Coach Blog](https://medium.dave-bailey.com/how-to-resolve-a-conflict-when-both-sides-are-right-1f375bc82f7f)
+- [Ask HN: How do you handle conflicts with your peers? | Hacker News](https://news.ycombinator.com/item?id=22074357)
+- [Techniques for conflict management as an Engineering Manager | Jumpstart](https://medium.com/jump-start/diversity-inclusion-and-managing-conflict-as-an-engineering-manager-techniques-1c49c33f931b)
+
+### Performance Management
+
+- [Engineering Performance Review | Railsware BlogGroup 3](https://railsware.com/blog/engineering-performance-review/)
+- [Performance Reviews for Software Developers – How I Do Them In a (Hopefully) Fair Way - The Pragmatic Engineer](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
+- [Performance reviews - The Engineering Manager](https://www.theengineeringmanager.com/management-101/performance-reviews/)
+- [How to Run a Successful Software Engineer Performance Review [Template Included]](https://relevant.software/blog/run-successful-software-engineer-performance-review/)
+- [Unfortunate things about performance reviews](https://rachelbythebay.com/w/2021/02/19/perf/)
+- [Annual Reviews Are a Terrible Way to Evaluate Employees - WSJ](https://www.wsj.com/articles/annual-reviews-are-a-terrible-way-to-evaluate-employees-11651291254)
+- [Performance reviews don’t actually assess your performance.](https://workweek.com/2022/09/26/performance-reviews-dont-actually-assess-your-performance/)
+- [Ask HN: How does your company do performance reviews? | Hacker News](https://news.ycombinator.com/item?id=14908913)
+- [Ask HN: What does performance management look like at your company? | Hacker News](https://news.ycombinator.com/item?id=24374347)
+
+### Feedback
+
+- [Feedack – The Manager's Handbook](https://themanagershandbook.com/coaching-and-feedback/feedback#giving-feedback)
+- [Leadership | GitLab](https://about.gitlab.com/handbook/leadership/#giving-feedback)
+- [How to Ask for Feedback](https://www.samjulien.com/how-to-ask-for-feedback/)
+- [The Engineering Manager's guide to open, honest and constructive feedback | LeadDev](https://leaddev.com/mentoring-coaching-feedback/engineering-managers-guide-open-honest-and-constructive-feedback)
+- [Performance Review Example and Template for Engineering Managers - The Pragmatic Engineer](https://blog.pragmaticengineer.com/performance-review-example-and-template-for-engineering-managers/)
 
 ## Processes and Artifacts
 
@@ -372,15 +497,6 @@
 | [Gitter](https://gitter.im/) | Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery. |
 | [Flock](https://www.flock.com/) | Your new home for collaboration. |
 
-### Email
-
-| Link | Description |
-| --- | --- |
-| [Protonmail](https://protonmail.com) | Secure Email Based in Switzerland |
-| [Tutanota](https://tutanota.com) | Tutanota is the world's most secure email service, easy to use and private by design. |
-| [mailinabox](https://mailinabox.email) | Mail-in-a-Box lets you become your own mail service provider in a few easy steps. |
-| [Gmail](https://mail.google.com) | Gmail is email that's intuitive, efficient, and useful. |
-
 ### Email Clients
 
 | Link | Description |
@@ -491,18 +607,20 @@
 - [Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/)
 - [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/)
 - [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)
-
-## Certifications
-
-- [https://www.pmi.org/certifications](https://www.pmi.org/certifications)
-- Others: https://www.cio.com/article/3210765/top-project-management-certifications.html
+- [The Gitlab handbook](https://about.gitlab.com/handbook/leadership/)
+- [The Manager's Handbook](https://themanagershandbook.com)
+- [Attest Engineering Handbook](https://attest.dev/handbook/engineering-management-growth-framework/)
+- [https://monzo.com/documents/engineering-manager-framework-v1-0.pdf](https://monzo.com/documents/engineering-manager-framework-v1-0.pdf)
 
 ## Useful resources
 
 | Link | Description |
 | --- | --- |
 | [Career Ladders](https://career-ladders.dev) | Roles and responsibilities of various members of tech. |
+| [Engineering Ladders](http://www.engineeringladders.com/) | A framework for Engineering Managers |
+| [progression.fyi](https://progression.fyi/) | Career framework inspiration from the world's best companies. |
 | [levels.fyi](http://levels.fyi/) | Compensations at various levels |
+| [roadmaps.sh](https://roadmap.sh/) | Engineering career roadmaps |
 
 ## Other Awesome Lists
 
