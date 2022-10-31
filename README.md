@@ -44,6 +44,7 @@
     - [Cause-effect analysis: Fishbone diagrams](#cause-effect-analysis-fishbone-diagrams)
     - [SCRUM Poker planning](#scrum-poker-planning)
     - [Other Documents](#other-documents)
+  - [How organizations do stuff](#how-organizations-do-stuff)
   - [Tools](#tools)
     - [Project and task Management](#project-and-task-management)
     - [Boards](#boards)
@@ -426,6 +427,16 @@
 - Test and evaluation documents
 - Project scope statement
 - Project team assignments
+
+## How organizations do stuff
+
+| How they | Link |
+| --- | --- |
+| SRE | https://github.com/upgundecha/howtheysre |
+| Test | https://github.com/abhivaikar/howtheytest |
+| Devops | https://github.com/bregman-arie/howtheydevops |
+| AWS | https://github.com/upgundecha/howtheyaws |
+| DBT | https://github.com/stumelius/howtheydbt |
 
 ## Tools
 
