@@ -631,6 +631,7 @@
 - [The Manager's Handbook](https://themanagershandbook.com)
 - [Attest Engineering Handbook](https://attest.dev/handbook/engineering-management-growth-framework/)
 - [https://monzo.com/documents/engineering-manager-framework-v1-0.pdf](https://monzo.com/documents/engineering-manager-framework-v1-0.pdf)
+- [The Staff Engineer's Path](https://www.amazon.com/Staff-Engineers-Path-Tanya-Reilly-ebook/dp/B0BG16Y553)
 
 ## Courses
 
