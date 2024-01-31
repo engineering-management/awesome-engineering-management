@@ -160,6 +160,7 @@
 - [How to Make Your One-on-Ones with Employees More Productive](https://hbr.org/2016/08/how-to-make-your-one-on-ones-with-employees-more-productive)
 - [How to Have Effective 1 on 1 Meetings with Your Manager](https://getlighthouse.com/blog/effective-1-on-1-meetings/)
 - [The Ultimate Guide to Manager One-on-Ones](https://lattice.com/library/the-ultimate-guide-to-one-on-ones)
+- [How to Have Effective 1-on-1 Meetings With Your Direct Reports](https://www.radicalcandor.com/blog/effective-one-on-ones/)
 - [How to Run Exceptional One-on-Ones | by Dave Bailey | The Founder Coach Blog](https://medium.dave-bailey.com/how-to-run-exceptional-one-on-ones-7cf9f22fce6e?gi=6e2f61047c10)tartup | Medium](https://medium.com/swlh/one-on-ones-are-my-most-valuable-meetings-heres-how-i-run-them-d9ae7c64dade)
 
 ### Building credibility
