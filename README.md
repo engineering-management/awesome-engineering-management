@@ -197,7 +197,6 @@
 ### Hiring
 
 - [How to Hire | Carta](https://carta.com/blog/how-to-hire/)
-- [Hiring 101 – The Manager's Handbook](https://themanagershandbook.com/hiring-and-onboarding/hiring-101)
 - [How to drive away your best engineers. | Hulacorn Blog](https://blog.hulacorn.com/2021/09/08/how-to-drive-away-your-best-engineers/)
 - [Hiring 101 – The Manager's Handbook](https://themanagershandbook.com/hiring-and-onboarding/hiring-101)
 - [Ask HN: How do small companies do recruitment? | Hacker News](https://news.ycombinator.com/item?id=30098607)
