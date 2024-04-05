@@ -235,6 +235,7 @@
 - [Good conflicts – The Manager's Handbook](https://themanagershandbook.com/conflict-resolution/good-conflicts)
 - [How to Deliver Constructive Feedback in Difficult Situations | by Dave Bailey | The Founder Coach Blog](https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf)
 - [How to Resolve a Conflict Where Both Sides Are Right | by Dave Bailey | The Founder Coach Blog](https://medium.dave-bailey.com/how-to-resolve-a-conflict-when-both-sides-are-right-1f375bc82f7f)
+- [How to Resolve Disputes - A Guide for Managers | by Teuta Rechi | Adeva](https://adevait.com/leadership/conflict-resolution-in-the-workplace)
 - [Ask HN: How do you handle conflicts with your peers? | Hacker News](https://news.ycombinator.com/item?id=22074357)
 - [Techniques for conflict management as an Engineering Manager | Jumpstart](https://medium.com/jump-start/diversity-inclusion-and-managing-conflict-as-an-engineering-manager-techniques-1c49c33f931b)
 
