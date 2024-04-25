@@ -526,6 +526,7 @@
 | [K9](https://github.com/k9mail/k-9) | K-9 Mail – Open Source Email App for Android |
 | [Evolution](https://help.gnome.org/users/evolution/stable/) | Evolution is a fully-featured open source groupware application |
 | [Microsoft Office Outlook](https://office.microsoft.com/outlook) | Outlook is a personal information manager that lets you manage your e-mail, calendar, contacts, and tasks. |
+| [Freeter](https://freeter.io/) | Free and Open Source app to gather all messaging, emailing and other web app accounts in one organized place. |
 
 ### Diagramming & Designing
 
