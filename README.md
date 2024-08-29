@@ -204,7 +204,7 @@
 ### Goal Setting
 
 - [Clarity – The Manager's Handbook](https://themanagershandbook.com/creating-and-achieving-goals/clarity)
-- [How to Set KPIs and Goals (SUS 2019)  : YC Startup Library | Y CombinatorTwitterFacebookInstagramLinkedInYouTube](https://www.ycombinator.com/library/6j-how-to-set-kpis-and-goals-sus-2019)
+- [Setting KPIs and goals : YC Startup Library](https://www.ycombinator.com/library/Iu-setting-kpis-and-goals)
 - [Engineering Managers and productivity: 7 guiding objectives for supporting your team](https://www.linkedin.com/pulse/engineering-managers-productivity-7-guiding-objectives-simone-basso)
 - [Engineering goals: How to set goals for high-performing teams | Hypercontext](https://hypercontext.com/blog/work-goals/engineering-goals)
 
