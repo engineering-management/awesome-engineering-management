@@ -61,7 +61,6 @@
     - [Mentoring](#mentoring)
 - [Learning](#learning)
   - [Books](#books)
-  - [Certifications](#certifications)
   - [Courses](#courses)
   - [Useful resources](#useful-resources)
   - [Other Awesome Lists](#other-awesome-lists)
@@ -636,6 +635,7 @@
 - [Attest Engineering Handbook](https://attest.dev/handbook/engineering-management-growth-framework/)
 - [https://monzo.com/documents/engineering-manager-framework-v1-0.pdf](https://monzo.com/documents/engineering-manager-framework-v1-0.pdf)
 - [The Staff Engineer's Path](https://www.amazon.com/Staff-Engineers-Path-Tanya-Reilly-ebook/dp/B0BG16Y553)
+- [Management 3.0](https://www.amazon.com/Management-3-0-Leading-Developers-Developers/dp/0321712471)
 
 ## Courses
 
