@@ -653,6 +653,7 @@
 | [progression.fyi](https://progression.fyi/) | Career framework inspiration from the world's best companies. |
 | [levels.fyi](http://levels.fyi/) | Compensations at various levels |
 | [roadmaps.sh](https://roadmap.sh/) | Engineering career roadmaps |
+| [Leadership in Tech](https://leadershipintech.com/) | A curated weekly newsletter for tech leaders. |
 
 ## Related Awesome Lists
 
