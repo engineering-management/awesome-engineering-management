@@ -462,6 +462,7 @@
 | [Clubhouse](https://clubhouse.io/) | Project management has never been easier |
 | [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) | Meet the simple, powerful, reimagined Project for everyone. |
 | [Project Manager](https://www.projectmanager.com/) | Project Management Software for Professionals |
+| [Taskade](https://taskade.com) | AI-native workspace for teams — tasks, docs, mind maps, AI agents, and real-time collaboration. |
 
 ### Boards
 
