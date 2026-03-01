@@ -653,6 +653,7 @@
 | [levels.fyi](http://levels.fyi/) | Compensations at various levels |
 | [roadmaps.sh](https://roadmap.sh/) | Engineering career roadmaps |
 | [AI Interview Coach](https://em-tools.io/interview-prep) | Voice-based AI behavioral interview practice for engineering managers and software engineers |
+| [Blog for Engineering Managers](https://blog4ems.com) | Practical guidance, templates, and resources for engineering managers |
 
 ## Related Awesome Lists
 
