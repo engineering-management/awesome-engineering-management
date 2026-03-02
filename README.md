@@ -61,7 +61,6 @@
     - [Mentoring](#mentoring)
 - [Learning](#learning)
   - [Books](#books)
-  - [Certifications](#certifications)
   - [Courses](#courses)
   - [Useful resources](#useful-resources)
   - [Other Awesome Lists](#other-awesome-lists)
@@ -204,7 +203,7 @@
 ### Goal Setting
 
 - [Clarity – The Manager's Handbook](https://themanagershandbook.com/creating-and-achieving-goals/clarity)
-- [How to Set KPIs and Goals (SUS 2019)  : YC Startup Library | Y CombinatorTwitterFacebookInstagramLinkedInYouTube](https://www.ycombinator.com/library/6j-how-to-set-kpis-and-goals-sus-2019)
+- [Setting KPIs and goals : YC Startup Library](https://www.ycombinator.com/library/Iu-setting-kpis-and-goals)
 - [Engineering Managers and productivity: 7 guiding objectives for supporting your team](https://www.linkedin.com/pulse/engineering-managers-productivity-7-guiding-objectives-simone-basso)
 - [Engineering goals: How to set goals for high-performing teams | Hypercontext](https://hypercontext.com/blog/work-goals/engineering-goals)
 
@@ -463,6 +462,7 @@
 | [Clubhouse](https://clubhouse.io/) | Project management has never been easier |
 | [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) | Meet the simple, powerful, reimagined Project for everyone. |
 | [Project Manager](https://www.projectmanager.com/) | Project Management Software for Professionals |
+| [Taskade](https://taskade.com) | AI-native workspace for teams — tasks, docs, mind maps, AI agents, and real-time collaboration. |
 
 ### Boards
 
@@ -539,6 +539,7 @@
 | [Invision](https://www.invisionapp.com/) | The digital product design platform powering the world’s best user experiences |
 | [Figma](https://www.figma.com/) | Figma brings your teams together to design better products from start to finish. |
 | [Zeplin](https://zeplin.io/) | Deliver on the promise of design |
+| [Excalidraw](https://plus.excalidraw.com/) | Online Whiteboard made simple. Free & Open source. No account is needed |
 
 ### Metrics
 
@@ -635,6 +636,7 @@
 - [Attest Engineering Handbook](https://attest.dev/handbook/engineering-management-growth-framework/)
 - [https://monzo.com/documents/engineering-manager-framework-v1-0.pdf](https://monzo.com/documents/engineering-manager-framework-v1-0.pdf)
 - [The Staff Engineer's Path](https://www.amazon.com/Staff-Engineers-Path-Tanya-Reilly-ebook/dp/B0BG16Y553)
+- [Management 3.0](https://www.amazon.com/Management-3-0-Leading-Developers-Developers/dp/0321712471)
 
 ## Courses
 
@@ -654,6 +656,7 @@
 | [roadmaps.sh](https://roadmap.sh/) | Engineering career roadmaps |
 | [AI Interview Coach](https://em-tools.io/interview-prep) | Voice-based AI behavioral interview practice for engineering managers and software engineers |
 | [Blog for Engineering Managers](https://blog4ems.com) | Practical guidance, templates, and resources for engineering managers |
+| [Leadership in Tech](https://leadershipintech.com/) | A curated weekly newsletter for tech leaders. |
 
 ## Related Awesome Lists
 
