@@ -484,6 +484,7 @@
 | [scrumbot](https://github.com/redsift/scrumbot) | Slack bot for standup meetings |
 | [slack-standup-bot](https://github.com/colestrode/slack-standup-bot) | Daily, weekly, whenever standup bot for Slack |
 | [standup-raven](https://github.com/standup-raven/standup-raven) | A Mattermost plugin for communicating daily standups across teams |
+| [Vereda AI](https://www.vereda.ai) | AI assistant for engineering management — async standups, 1:1 prep, signal detection, and performance reviews via Slack |
 
 ### Documentation / Knowledge Management
 
