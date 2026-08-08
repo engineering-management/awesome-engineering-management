@@ -673,6 +673,7 @@
 | [AI Interview Coach](https://em-tools.io/interview-prep) | Voice-based AI behavioral interview practice for engineering managers and software engineers |
 | [Blog for Engineering Managers](https://blog4ems.com) | Practical guidance, templates, and resources for engineering managers |
 | [Leadership in Tech](https://leadershipintech.com/) | A curated weekly newsletter for tech leaders. |
+| [You're Measuring AI Spend, Not AI Value](https://sawinyh.com/blog/measuring-ai-spend-not-value/) | On governing AI dev-tool spend: proposes cost-per-verified-outcome (CPVO) plus review-tax and verified-share as a team-level dashboard, instead of leaning on velocity or lines-of-code. |
 
 ## Related Awesome Lists
 
