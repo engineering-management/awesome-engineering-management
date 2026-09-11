@@ -349,6 +349,7 @@
 ### ADR: Architecture Decision Record
 
 - [Process](https://github.com/joelparkerhenderson/architecture-decision-record)
+- [Machine-readable format](https://github.com/reasoning-formats/reasoning-formats)
 - Templates
   - [Atlassian](https://www.atlassian.com/software/confluence/templates/decision)
 
