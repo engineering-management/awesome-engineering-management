@@ -119,7 +119,7 @@
 - [References](https://www.ionos.com/digitalguide/websites/web-development/waterfall-methodology/)
 - Papers
   - [Production of Large Computer Programs](https://scholar.google.com/scholar?cluster=1388407824739651346&hl=fi&as_sdt=0,5)
-  - [Managing the Development of Large Software Systems](http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf)
+  - [Managing the Development of Large Software Systems](https://www.cs.huji.ac.il/w~feit/sem/se09/Waterfall.pdf)
   - [Iterative and Incremental Development: A Brief History](https://www.computer.org/csdl/magazine/co/2003/06/r6047/13rRUxBJhpL)
 - [Wikipedia](https://en.wikipedia.org/wiki/Waterfall_model)
 
@@ -272,7 +272,7 @@
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Project_plan)
 - Templates
-  - [CDC](https://www2.cdc.gov/cdcup/library/templates/cdc_up_project_management_plan_template.doc)
+  - [CDC](https://web.archive.org/web/20210120032842/https://www2.cdc.gov/cdcup/library/templates/cdc_up_project_management_plan_template.doc)
   - [Atlassian](https://www.atlassian.com/software/confluence/templates/project-plan)
   - [PMI](https://www.projectmanagement.com/contentPages/projectPlan.cfm?ID=121789&thisPageURL=/project-plans/121789/Software-Development-Project-Plan#_=_)
 
@@ -281,7 +281,7 @@
 - [PMI](https://www.pmi.org/learning/library/applying-work-breakdown-structure-project-lifecycle-6979)
 - [Wikipedia](https://en.wikipedia.org/wiki/Work_breakdown_structure)
 - Templates
-  - [CDC](https://www2a.cdc.gov/cdcup/library/templates/CDC_UP_WBS_Template_Style-1.doc)
+  - [CDC](https://web.archive.org/web/20201017164808/https://www2a.cdc.gov/cdcup/library/templates/CDC_UP_WBS_Template_Style-1.doc)
   - [Atlassian](https://aneto.atlassian.net/wiki/spaces/WBS/overview)
   - [Miro](https://miro.com/templates/work-breakdown-structure/)
   - [Google sheets](https://workspace.google.com/marketplace/app/projectsheet_planning/1080532206233)
@@ -290,7 +290,7 @@
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Capacity_planning)
 - Templates
-  - [CDC](https://www2.cdc.gov/cdcup/library/templates/cdc_up_capacity_planning_template.doc)
+  - [CDC](https://web.archive.org/web/20210526225556/https://www2.cdc.gov/cdcup/library/templates/CDC_UP_Capacity_Planning_Template.doc)
   - [Atlassian](https://www.atlassian.com/software/confluence/templates/capacity-planning)
   - [PMI](https://www.projectmanagement.com/deliverables/319867/Capacity-Planning-Template)
 
@@ -298,7 +298,7 @@
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Risk_management)
 - Templates
-  - [CDC](https://www2a.cdc.gov/cdcup/library/templates/CDC_UP_Risk_Management_Plan_Template.doc)
+  - [CDC](https://web.archive.org/web/20201017181726/https://www2a.cdc.gov/cdcup/library/templates/CDC_UP_Risk_Management_Plan_Template.doc)
   - [Atlassian](https://www.atlassian.com/software/confluence/templates/risk-assessment)
 
 ### Stakeholder Management
@@ -516,7 +516,7 @@
 | [Microsoft Teams](https://teams.microsoft.com/) | Microsoft Teams is the hub for team collaboration in Microsoft 365 that integrates the people, content, and tools your team needs. |
 | [Gitter](https://gitter.im/) | Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery. |
 | [Flock](https://www.flock.com/) | Your new home for collaboration. |
-| [flat.social](https://www.flat.social/) | Spatial online meetings for remote teams that promote collaboration, creativity and spontaneous interactions. |
+| [flat.social](https://flat.social/) | Spatial online meetings for remote teams that promote collaboration, creativity and spontaneous interactions. |
 
 ### Email Clients
 
@@ -638,7 +638,7 @@
 - [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)
 - [The Gitlab handbook](https://about.gitlab.com/handbook/leadership/)
 - [The Manager's Handbook](https://themanagershandbook.com)
-- [Attest Engineering Handbook](https://attest.dev/handbook/engineering-management-growth-framework/)
+- [Attest Engineering Handbook](https://attest.dev/)
 - [https://monzo.com/documents/engineering-manager-framework-v1-0.pdf](https://monzo.com/documents/engineering-manager-framework-v1-0.pdf)
 - [The Staff Engineer's Path](https://www.amazon.com/Staff-Engineers-Path-Tanya-Reilly-ebook/dp/B0BG16Y553)
 - [Management 3.0](https://www.amazon.com/Management-3-0-Leading-Developers-Developers/dp/0321712471)
@@ -657,7 +657,6 @@
 | --- | --- |
 | [Dev Interrupted](https://devinterrupted.com/podcast/) | Engineering leadership and developer productivity, hosted by LinearB. |
 | [Chain of Thought](https://chainofthought.show) | AI infrastructure and developer tools, with interviews from engineering leaders and technical founders. |
-| [The Engineering Manager Podcast](https://www.theengineeringmanager.com/podcast/) | Weekly conversations on management, hiring, culture, and scaling engineering teams. |
 | [Soft Skills Engineering](https://softskills.audio/) | Weekly advice on the non-technical side of software development. |
 | [Level Up Engineering](https://codingsans.com/engineering-management-podcast) | Engineering leadership lessons from CTOs and VPs of Engineering. |
 | [Engineering Culture by InfoQ](https://www.infoq.com/engineering-culture-podcast/) | Building engineering organizations and culture at scale. |
