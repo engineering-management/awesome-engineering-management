@@ -488,6 +488,7 @@
 | [scrumbot](https://github.com/redsift/scrumbot) | Slack bot for standup meetings |
 | [slack-standup-bot](https://github.com/colestrode/slack-standup-bot) | Daily, weekly, whenever standup bot for Slack |
 | [standup-raven](https://github.com/standup-raven/standup-raven) | A Mattermost plugin for communicating daily standups across teams |
+| [Eodly](https://eodly.io) | Async daily check-ins in Slack, Telegram or Discord, compared with GitHub and Linear activity. |
 
 ### Documentation / Knowledge Management
 
