@@ -467,6 +467,7 @@
 | [Project Manager](https://www.projectmanager.com/) | Project Management Software for Professionals |
 | [Taskade](https://taskade.com) | AI-native workspace for teams — tasks, docs, mind maps, AI agents, and real-time collaboration. |
 | [Mainline](https://mainline.dev) | Story mapping with built-in delivery flow tracking and feature flag inventory. |
+| [Tale](https://tale.dev) | Open-source project workspace for teams and AI agents to share project tasks, context, files, and reviewed deliverables. |
 
 ### Boards
 
