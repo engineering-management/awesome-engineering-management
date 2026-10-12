@@ -448,6 +448,7 @@
 
 | Link | Description |
 | --- | --- |
+| [Orbit by Noveum](https://orbit.noveum.ai) | Free, open-source issue and project management with sprints, collaborative docs and workspace-scoped OAuth MCP access. |
 | [OpenProject](https://github.com/opf/openproject) | OpenProject is the leading open source project management software. |
 | [taiga.io](https://github.com/taigaio) | Your Agile, Free and Open Source Project Management Tool |
 | [Redmine](https://www.redmine.org/) | Redmine is a flexible project management web application. |
