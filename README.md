@@ -561,6 +561,7 @@
 | [aafmp](https://savannah.nongnu.org/projects/aamfp) | a simple personal kanban metrics spreadsheet |
 | [jira-agile-velocity](https://github.com/Fgerthoffert/jira-agile-velocity) | Connect to Jira REST API to collect completed story points, calculate weekly velocity, and estimate completion date |
 | [Sprint Ledger](https://damyor.github.io/sprint-ledger-docs/) | Jira Cloud app: issues added to, removed from and carried over between sprints, as JQL functions and read-only fields |
+| [Weave](https://weaveos.com) | Engineering metrics from GitHub, GitLab, Bitbucket, Linear and Jira: code output, quality, review and DORA metrics, plus AI coding tool adoption and cost; free Starter plan |
 
 ### Calendars
 
