@@ -395,6 +395,7 @@
   - [Slack bot](https://github.com/nateyolles/slack-pokerbot)
   - [Storyplan for slack](https://www.storyplan.io/)
   - [Android app](https://play.google.com/store/apps/details?id=com.vvkra.planningpoker&hl=en_US&gl=US)
+  - [Paceflow Scrum Poker](https://www.paceflow.io/scrum-poker) - Free online planning poker for estimating sprint work with live team voting.
 
 ### Other Documents
 
