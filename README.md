@@ -548,6 +548,7 @@
 | [Zeplin](https://zeplin.io/) | Deliver on the promise of design |
 | [Excalidraw](https://plus.excalidraw.com/) | Online Whiteboard made simple. Free & Open source. No account is needed |
 | [flow-chart.io](https://flow-chart.io) | AI diagram generator that produces fully editable C4 architecture, BPMN, cloud architecture, and DevOps pipeline diagrams from plain-language prompts. |
+| [Squado](https://squado.io) | Live org canvas for engineering teams: squads, tribes and alliances with the people on them, plus cost per squad, OKRs and ceremony conflicts. |
 
 ### Metrics
 
