@@ -561,6 +561,7 @@
 | [aafmp](https://savannah.nongnu.org/projects/aamfp) | a simple personal kanban metrics spreadsheet |
 | [jira-agile-velocity](https://github.com/Fgerthoffert/jira-agile-velocity) | Connect to Jira REST API to collect completed story points, calculate weekly velocity, and estimate completion date |
 | [Sprint Ledger](https://damyor.github.io/sprint-ledger-docs/) | Jira Cloud app: issues added to, removed from and carried over between sprints, as JQL functions and read-only fields |
+| [StackVitals](https://github.com/stackvitals/stackvitals) | GitHub Action that tracks DORA metrics (counted like Apache DevLake), PR review flow and failed-CI triage as history in your repo, with a static dashboard. No server |
 
 ### Calendars
 
