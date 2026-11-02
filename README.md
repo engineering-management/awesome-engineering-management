@@ -678,6 +678,7 @@
 | [AI Interview Coach](https://em-tools.io/interview-prep) | Voice-based AI behavioral interview practice for engineering managers and software engineers |
 | [Blog for Engineering Managers](https://blog4ems.com) | Practical guidance, templates, and resources for engineering managers |
 | [Leadership in Tech](https://leadershipintech.com/) | A curated weekly newsletter for tech leaders. |
+| [The Leadership Library](https://mutaafaziz.com/library/) | Engineering leadership book notes: labelled summaries of The Manager's Path, An Elegant Puzzle, Peopleware, Accelerate and more, with an engineering manager's reflections |
 
 ## Related Awesome Lists
 
