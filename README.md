@@ -289,6 +289,7 @@
 ### Capacity Planning
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Capacity_planning)
+- [Platform team business case: capacity and payback sheets](https://www.marian.coach/blog/platform-team-business-case/)
 - Templates
   - [CDC](https://www2.cdc.gov/cdcup/library/templates/cdc_up_capacity_planning_template.doc)
   - [Atlassian](https://www.atlassian.com/software/confluence/templates/capacity-planning)
