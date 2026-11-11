@@ -534,7 +534,7 @@
 | [Evolution](https://help.gnome.org/users/evolution/stable/) | Evolution is a fully-featured open source groupware application |
 | [Microsoft Office Outlook](https://office.microsoft.com/outlook) | Outlook is a personal information manager that lets you manage your e-mail, calendar, contacts, and tasks. |
 | [Freeter](https://freeter.io/) | Free and Open Source app to gather all messaging, emailing and other web app accounts in one organized place. |
-| [EpicMail](https://epicmail.org/?utm_source=engineering_management&utm_medium=referral&utm_campaign=epicmail_multi_inbox_2026&utm_content=email_clients_list) | A unified inbox for Gmail, Outlook, Yahoo, iCloud, IMAP, and POP3. Browser and Android clients for managing multiple existing accounts. A valid card is required before adding email accounts. The Adventurer plan remains $0 unless the user upgrades. |
+| [EpicMail](https://epicmail.org/) | A unified inbox for Gmail, Outlook, Yahoo, iCloud, IMAP, and POP3, with browser and Android clients. |
 
 ### Diagramming & Designing
 
