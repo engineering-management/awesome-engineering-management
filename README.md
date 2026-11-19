@@ -589,6 +589,7 @@
 | [gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro) | A time management utility for GNOME based on the pomodoro technique! |
 | [Goodtime](https://github.com/adrcotfas/Goodtime) | productivity app for Android |
 | [Yellow Tomato](https://productive.fish/pomodoro-timer/) | Simple Pomodoro timer for concentration at work |
+| [Kiri](https://project-kiri.com/) | Focus timer and task list in one browser tab, with background sounds and the countdown in the tab title. Free to start; full version is a one-time purchase. |
 
 ### Code Hosting
 
