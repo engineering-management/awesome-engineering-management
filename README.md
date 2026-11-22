@@ -494,6 +494,7 @@
 | [slack-standup-bot](https://github.com/colestrode/slack-standup-bot) | Daily, weekly, whenever standup bot for Slack |
 | [standup-raven](https://github.com/standup-raven/standup-raven) | A Mattermost plugin for communicating daily standups across teams |
 | [Eodly](https://eodly.io) | Async daily check-ins in Slack, Telegram or Discord, compared with GitHub and Linear activity. |
+| [Opitor daily standup template](https://opitor.com/tools/daily-standup-template) | Free written standup template: what you finished, what you will finish today, and who can unblock you. No account needed. |
 
 ### Documentation / Knowledge Management
 
