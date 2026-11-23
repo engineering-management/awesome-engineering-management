@@ -580,6 +580,7 @@
 | [Calendly](https://calendly.com/) | Calendly is your hub for scheduling meetings professionally and efficiently, eliminating the hassle of back-and-forth emails so you can get back to work. |
 | [Appoint.ly](https://appoint.ly/) | Appointment scheduling software helps to book 1-on-1 meetings with people all over the world, avoid double booking and save time! |
 | [Zeeg](https://zeeg.me/) | Your smart business card! An advanced scheduling assistant with your own beautiful minimal website. Your Zeeg link is the only link you really need! |
+| [Greetigo](https://greetigo.com/employee-birthday-tracker) | Keeps a team's birthdays and work anniversaries and emails the manager the day before and on the day, with a message ready |
 
 ### Time Management
 
