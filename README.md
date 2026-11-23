@@ -688,6 +688,7 @@
 | [Blog for Engineering Managers](https://blog4ems.com) | Practical guidance, templates, and resources for engineering managers |
 | [Leadership in Tech](https://leadershipintech.com/) | A curated weekly newsletter for tech leaders. |
 | [The Leadership Library](https://mutaafaziz.com/library/) | Engineering leadership book notes: labelled summaries of The Manager's Path, An Elegant Puzzle, Peopleware, Accelerate and more, with an engineering manager's reflections |
+| [2026 State of Indie & AI Startup Infrastructure](https://zcoldwater.github.io/omniforge-skills/state-of-ai-startup-infrastructure-2026.html) | Open empirical telemetry across 330 live SaaS & AI startup domains: web security headers/TLS, Top-60 email authentication & SPF bloat, AI search /llms.txt readiness, and Top-100 AI TLD adoption (with reproducible MIT JSON datasets) |
 
 ## Related Awesome Lists
 
