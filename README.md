@@ -569,6 +569,7 @@
 | [Sprint Ledger](https://damyor.github.io/sprint-ledger-docs/) | Jira Cloud app: issues added to, removed from and carried over between sprints, as JQL functions and read-only fields |
 | [Weave](https://weaveos.com) | Engineering metrics from GitHub, GitLab, Bitbucket, Linear and Jira: code output, quality, review and DORA metrics, plus AI coding tool adoption and cost; free Starter plan |
 | [Aidealy](https://aidealy.ai) | Measures R&D productivity in the AI era, for engineers and AI agents: a productivity rank per engineer, code review work, how much of the code AI wrote (counted from Cursor and Claude Code records) and AI token cost per pull request. Connects to GitHub, GitLab, Bitbucket and Azure DevOps |
+| [GitGrit](https://gitgrit.dev) | Engineering standards as code: Python checks run on every repository in GitHub and GitLab, with a score and badge per project, so leaders can see the standards hold across all teams; open source (MIT), free plan |
 
 ### Calendars
 
