@@ -633,6 +633,7 @@
 | [awesome-courses](https://github.com/prakhar1989/awesome-courses) | List of awesome university courses for learning Computer Science! |
 | [awesome-testing-courses](https://github.com/upgundecha/awesome-testing-courses) | A curated list of awesome online courses and tutorials on software testing, test automation and more. |
 | [System design primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [DiffDojo](https://app.diffdojo.com/teams) | Code review practice for engineering teams: developers review realistic AI-written pull requests with known issues, and the lead sees which bug classes the whole team misses. Free tier, 30-day team pilot. |
 
 
 
